@@ -1,0 +1,13 @@
+{
+  "hash": "accde3df85cf6c295b0c38097d93010fda1381ff1f5419bfa9c4d97bb11d4ca6",
+  "type": "theme",
+  "about": {
+    "name": "Fluent Discord",
+    "authors": [
+      "TakosThings"
+    ],
+    "description": "Fluent theme for Discord.",
+    "version": "0.1.0",
+    "license": "MIT"
+  }
+}
