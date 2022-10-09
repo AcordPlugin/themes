@@ -1,0 +1,16 @@
+{
+  "hash": "7c6536e7a9ef378048efac9e7f3675ab43909ba5350d077d8c88a36a11133a0e",
+  "type": "theme",
+  "about": {
+    "name": "CreArts",
+    "authors": [
+      "CorellanStoma",
+      "PhoenixAceVFX",
+      "AMTitan",
+      "ThePlay3r"
+    ],
+    "description": "CreArts is a theme for Discord that gives you a new modern interface.",
+    "version": "3.0.3",
+    "license": "MIT"
+  }
+}
