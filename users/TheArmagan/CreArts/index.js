@@ -12,7 +12,7 @@ function loadTheme() {
       $.modernEdition ? `@import url("https://crearts-community.github.io/CreArts-Discord/skins/palette/discord/modern.css");` : null,
       $.blurpleEdition ? `@import url("https://crearts-community.github.io/CreArts-Discord/skins/palette/discord/blurple.css");` : null,
       $.revampEdition ? `@import url("https://crearts-community.github.io/CreArts-Discord/skins/palette/discord/revamp.css");` : null,
-    ].filter(i=>i)
+    ].filter(i=>i).join("\n")
   );
 
   patches.push(unpatch);
