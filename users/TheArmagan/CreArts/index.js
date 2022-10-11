@@ -1,5 +1,5 @@
 import { injectCSS } from "@acord/patcher";
-import { persist } from "@acord/data";
+import { persist } from "@acord/extension";
 
 let patches = [];
 
