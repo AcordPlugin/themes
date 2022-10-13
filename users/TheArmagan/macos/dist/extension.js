@@ -1,0 +1,1 @@
+(function(e){"use strict";let t;var c={load(){t=e.injectCSS('@import"https://raw.githubusercontent.com/core-hacked/BetterDiscord-MacOS-Theme/master/MacOS.theme.css";')},unload(){t()}};return c})(acord.patcher);
