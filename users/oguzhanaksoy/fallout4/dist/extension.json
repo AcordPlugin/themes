@@ -1,0 +1,13 @@
+{
+  "hash": "1e0f7e0167face01318ecfcc39c37224db22755dff74b8c9a37bb20aebf32c5a",
+  "type": "theme",
+  "about": {
+    "name": "Fallout 4 Theme",
+    "authors": [
+      "Bates#7075"
+    ],
+    "description": "A theme inspired by Fallout 4's terminals!",
+    "version": "1.0.0",
+    "license": "MIT"
+  }
+}
