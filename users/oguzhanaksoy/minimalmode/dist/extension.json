@@ -1,0 +1,13 @@
+{
+  "hash": "4ef777b5225d0cc92fbb4d5327f98061ce22285622cbd12d9b11c3095161834c",
+  "type": "theme",
+  "about": {
+    "name": "MinimalMode",
+    "authors": [
+      "SmolAlli, Zerebos, and others."
+    ],
+    "description": "A theme based on BetterDiscord's built-in Minimal Mode",
+    "version": "1.0.0",
+    "license": "MIT"
+  }
+}

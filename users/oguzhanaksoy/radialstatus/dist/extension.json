@@ -1,0 +1,13 @@
+{
+  "hash": "74ffa621d182130bd496e5a39a831bb69e32a27eae7a55d1f5eacc5dad1b209a",
+  "type": "theme",
+  "about": {
+    "name": "RadialStatus",
+    "authors": [
+      "Gibbu#1211"
+    ],
+    "description": "Changes the status icons to wrap around the avatar. Shape can be changed inside the theme file.",
+    "version": "2.0.0",
+    "license": "MIT"
+  }
+}

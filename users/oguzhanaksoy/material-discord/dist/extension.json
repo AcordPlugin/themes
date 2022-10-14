@@ -1,0 +1,13 @@
+{
+  "hash": "b82aad8126f51824559a4e83a7d958007664aa6992323f7617353f4a25739041",
+  "type": "theme",
+  "about": {
+    "name": "Material Discord",
+    "authors": [
+      "CapnKitten"
+    ],
+    "description": "A theme based on Google's Material Design",
+    "version": "3.0.4",
+    "license": "MIT"
+  }
+}

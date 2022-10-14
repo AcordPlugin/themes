@@ -1,0 +1,13 @@
+{
+  "hash": "8c082af345cc456af6380469d84292851758a5e8ae646e279522b9c04276a8b3",
+  "type": "theme",
+  "about": {
+    "name": "Revert Rebrand",
+    "authors": [
+      "GooseNest"
+    ],
+    "description": "Reverts Discord's 2021 rebrand (font, colors, reactions, mentions, loading screen, home icon, reply ping color, and more)",
+    "version": "5.1",
+    "license": "MIT"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "hash": "c3dad91f5beec3b2fdc594fc92b0cbb3a2a390483905ddea44f843c0bc065271",
+  "type": "theme",
+  "about": {
+    "name": "kaleidoscope",
+    "authors": [
+      "mackenzie#0173"
+    ],
+    "description": "A vibrant, colourful dark theme inspired by the 2077 theme for VSCode.",
+    "version": "2.4.2",
+    "license": "MIT"
+  }
+}

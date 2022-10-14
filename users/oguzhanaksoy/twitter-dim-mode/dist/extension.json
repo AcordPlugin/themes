@@ -1,0 +1,13 @@
+{
+  "hash": "fbace24fbc6f1a6d34e8d7b72c6ef896b02811e70620eb3d455eab92123b3c55",
+  "type": "theme",
+  "about": {
+    "name": "Twitter Dim Mode",
+    "authors": [
+      "Id 403725623161257984"
+    ],
+    "description": "A theme based in Dim mode from Twitter",
+    "version": "1.0.1",
+    "license": "MIT"
+  }
+}

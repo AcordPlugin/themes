@@ -1,0 +1,13 @@
+{
+  "hash": "5542dc9201b0d307f7aab513296620913ee728582fa9d6bc962bc890c48f4401",
+  "type": "theme",
+  "about": {
+    "name": "New Nihilism",
+    "authors": [
+      "Link https://github.com/ObserverOfTime"
+    ],
+    "description": "A dark and compact theme, designed for use with Discord's dark theme.",
+    "version": "1.11.0",
+    "license": "MIT"
+  }
+}

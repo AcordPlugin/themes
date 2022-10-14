@@ -1,0 +1,1 @@
+(function(s){"use strict";let t;var e={load(){t=s.injectCSS('@import"https://mwittrien.github.io/BetterDiscordAddons/Themes/SettingsModal/SettingsModal.css";:root{--settingsmodalbackground: transparent;--settingsmodalwidth: 960px;--settingsmodalheight: 80vh}')},unload(){t()}};return e})(acord.patcher);

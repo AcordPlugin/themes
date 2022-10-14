@@ -1,0 +1,13 @@
+{
+  "hash": "ba9fa3c448466b6f15bb68865114030ce340bce8020b5f30156bed3f1f717f01",
+  "type": "theme",
+  "about": {
+    "name": "GGO Kirito",
+    "authors": [
+      "VaporousCreeper"
+    ],
+    "description": "A theme with Kirito and Deathgun fighting in GGO (Gun Gale Online)",
+    "version": "1.2.X",
+    "license": "MIT"
+  }
+}

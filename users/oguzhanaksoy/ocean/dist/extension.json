@@ -1,0 +1,13 @@
+{
+  "hash": "0b10ec1d23715ca72ae0ed18337463d37bb2f85422975964e23abc014c6d7193",
+  "type": "theme",
+  "about": {
+    "name": "Ocean",
+    "authors": [
+      "Link https://devevil.com"
+    ],
+    "description": "Highly customized and customizable theme for Discord",
+    "version": "1.0",
+    "license": "MIT"
+  }
+}

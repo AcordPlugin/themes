@@ -1,0 +1,13 @@
+{
+  "hash": "aab38da9521104715c3412bfec10462f4524e5067eabe52c22388900fcec6221",
+  "type": "theme",
+  "about": {
+    "name": "T1",
+    "authors": [
+      "Eight_P"
+    ],
+    "description": "simple design with focus on improvements and horizontal server bar",
+    "version": "0.7.3",
+    "license": "MIT"
+  }
+}

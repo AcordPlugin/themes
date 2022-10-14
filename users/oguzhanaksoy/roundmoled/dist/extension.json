@@ -1,0 +1,13 @@
+{
+  "hash": "ffb9f9e1b0889751f704623d5ff2297d94fbfd574cabc291cad677c41b5d3b03",
+  "type": "theme",
+  "about": {
+    "name": "Roundmoled",
+    "authors": [
+      "Id 699552486360612954"
+    ],
+    "description": "Simple amoled black + rounded corners theme",
+    "version": "1.1",
+    "license": "MIT"
+  }
+}

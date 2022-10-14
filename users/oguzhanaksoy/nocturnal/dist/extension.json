@@ -1,0 +1,13 @@
+{
+  "hash": "7f797877ce511215feb4c5042d76ea75f0842e2cb43bc78da5e5def8fbb6ff4c",
+  "type": "theme",
+  "about": {
+    "name": "Nocturnal",
+    "authors": [
+      "Spectra#4577"
+    ],
+    "description": "For when default discord just isn't dark enough, a theme for those who live a night",
+    "version": "3.0.0",
+    "license": "MIT"
+  }
+}

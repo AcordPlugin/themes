@@ -1,0 +1,13 @@
+{
+  "hash": "58922c701e8ac48ae180d6a5ac0b35a9ffb2e1d373d2464e5ba5478408ac3b27",
+  "type": "theme",
+  "about": {
+    "name": "GitHub Dark",
+    "authors": [
+      "Sango"
+    ],
+    "description": "A theme based off of the GitHub Dark theme.",
+    "version": "1.0.0",
+    "license": "MIT"
+  }
+}

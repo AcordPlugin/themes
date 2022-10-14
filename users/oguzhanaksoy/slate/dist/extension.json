@@ -1,0 +1,13 @@
+{
+  "hash": "9accfd79c36f918947d5eea259642341def0919ec3266cf7e4bbbab33b704ae0",
+  "type": "theme",
+  "about": {
+    "name": "Slate",
+    "authors": [
+      "Gibbu#1211 & Tropical#8908"
+    ],
+    "description": "An optimized, consistent, and functional theme for Discord based on GitHub's design language.",
+    "version": "1.1",
+    "license": "MIT"
+  }
+}

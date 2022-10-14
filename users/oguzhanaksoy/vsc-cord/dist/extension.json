@@ -1,0 +1,13 @@
+{
+  "hash": "6342b3754c8ce0850a0f2897abc4b58784c51e22fc782cf67fd9e2b5d29ac08f",
+  "type": "theme",
+  "about": {
+    "name": "VSC Cord",
+    "authors": [
+      "Xyhlo#9766"
+    ],
+    "description": "Theme based on Visual Studio Code design. Credit to userMacieG#7591 for allowing me to use stuff from his Discord.tv theme.",
+    "version": "1.4",
+    "license": "MIT"
+  }
+}

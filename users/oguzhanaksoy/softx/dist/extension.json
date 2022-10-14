@@ -1,0 +1,13 @@
+{
+  "hash": "cf7cbdca34054067f8a0b72f25e5e388acc83e4462e82f8e8c4cca980156fd5e",
+  "type": "theme",
+  "about": {
+    "name": "SoftX",
+    "authors": [
+      "Gibbu#1211"
+    ],
+    "description": "A soft and comfy feel for Discord.",
+    "version": "1.0.0",
+    "license": "MIT"
+  }
+}

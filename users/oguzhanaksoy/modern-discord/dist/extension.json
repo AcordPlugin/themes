@@ -1,0 +1,13 @@
+{
+  "hash": "eed05a12cdcab8dbd6c8b6c05862128457fac905e77382ecfaf486654b18d331",
+  "type": "theme",
+  "about": {
+    "name": "Alexis Modern Discord Theme",
+    "authors": [
+      "Link https://twitter.com/WyvernZu"
+    ],
+    "description": "A decluttered, simple, and modern theme for Discord.",
+    "version": "21.07.22",
+    "license": "MIT"
+  }
+}

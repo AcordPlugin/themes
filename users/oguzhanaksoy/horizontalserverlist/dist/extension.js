@@ -1,0 +1,1 @@
+(function(t){"use strict";let r;var e={load(){r=t.injectCSS('@import"https://discordstyles.github.io/HorizontalServerList/dist/HorizontalServerList.css";:root{--HSL-server-icon-size: 40px;--HSL-server-spacing: 10px;--HSL-server-direction: column}')},unload(){r()}};return e})(acord.patcher);

@@ -1,0 +1,13 @@
+{
+  "hash": "db64347ef1233d031d5489f1e8623e13b783bec72139ae91698579d7b18915c2",
+  "type": "theme",
+  "about": {
+    "name": "Horizontal Server List",
+    "authors": [
+      "Gibbu#1211"
+    ],
+    "description": "Moves the server list from the left to the top of Discord. Compatible with Server Folders and most basic transparent themes",
+    "version": "2.1.0",
+    "license": "MIT"
+  }
+}

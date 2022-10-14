@@ -1,0 +1,1 @@
+(function(s){"use strict";let t;var i={load(){t=s.injectCSS('@import"https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600&display=swap";@import"https://discordstyles.github.io/MinimalCord/dist/MinimalCord.css";:root{--accent: 50, 131, 207;--message-padding: 10px;--message-spacing: 10px;--font: "Inter"}')},unload(){t()}};return i})(acord.patcher);

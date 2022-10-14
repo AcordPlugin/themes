@@ -1,0 +1,13 @@
+{
+  "hash": "3e141afe98c1ec7c82932c45787bee02afd20568824a0f86d8b5829137e80a75",
+  "type": "theme",
+  "about": {
+    "name": "Spotify Discord",
+    "authors": [
+      "CapnKitten"
+    ],
+    "description": "Combine Discord and Spotify into one",
+    "version": "1.5.0",
+    "license": "MIT"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "hash": "c558cf84a42608e6be74ace2f6d2a3818a9719ab4c623b0a41a93f8ed7646a9a",
+  "type": "theme",
+  "about": {
+    "name": "MaterialDesign",
+    "authors": [
+      "Id 538487970408300544"
+    ],
+    "description": "A clean theme inspired by Google's Material Design Guidelines.",
+    "version": "0.9.9",
+    "license": "MIT"
+  }
+}

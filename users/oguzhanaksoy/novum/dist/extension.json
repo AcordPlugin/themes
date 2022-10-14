@@ -1,0 +1,13 @@
+{
+  "hash": "0fe49bc8698dcd6a6a90b7f143e09060d718f55dc32b1c7c10db41c3e498c809",
+  "type": "theme",
+  "about": {
+    "name": "Novum",
+    "authors": [
+      "Tomec & Saurian"
+    ],
+    "description": "Red galaxy theme enhanced with couple of addons and small features.",
+    "version": "5.6.0",
+    "license": "MIT"
+  }
+}

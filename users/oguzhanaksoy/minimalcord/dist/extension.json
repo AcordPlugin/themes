@@ -1,0 +1,13 @@
+{
+  "hash": "fe153b32c8049c801fd93ee4db2282a64d2924dfcdeca473aa9af26230fd3254",
+  "type": "theme",
+  "about": {
+    "name": "MinimalCord",
+    "authors": [
+      "Gibbu#1211"
+    ],
+    "description": "Changes Discord enough to give it a fresh feel while also making it darker. Supports both Light and Dark themes.",
+    "version": "2.0.0",
+    "license": "MIT"
+  }
+}

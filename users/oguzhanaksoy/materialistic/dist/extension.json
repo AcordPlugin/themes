@@ -1,0 +1,13 @@
+{
+  "hash": "b71dadc49d0844bf165977b022eccd660d110366b5adb8e2f9fb7420f1448367",
+  "type": "theme",
+  "about": {
+    "name": "Materialistic",
+    "authors": [
+      "BigMeanie"
+    ],
+    "description": "A clean material design theme for discord with a simple accent color",
+    "version": "1.0.0",
+    "license": "MIT"
+  }
+}

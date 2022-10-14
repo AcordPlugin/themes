@@ -1,0 +1,13 @@
+{
+  "hash": "e29e3ec5cd3807371572dceddd77bf91a433f2a14e4f33e46e2c2c54aae78603",
+  "type": "theme",
+  "about": {
+    "name": "Frosted Glass",
+    "authors": [
+      "Id 174868361040232448"
+    ],
+    "description": "Display your picture of choice with adjustable blur and brightness. Dark theme is required.",
+    "version": "2.0.0",
+    "license": "MIT"
+  }
+}

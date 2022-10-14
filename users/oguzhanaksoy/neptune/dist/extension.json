@@ -1,0 +1,13 @@
+{
+  "hash": "6c3959189a53eed992eb3c746cdc7e7d053deb5e61147fe3eb279cf65fab35c5",
+  "type": "theme",
+  "about": {
+    "name": "Neptune",
+    "authors": [
+      "Link https://devevil.com"
+    ],
+    "description": "A dark, blue and customizable theme",
+    "version": "2.0",
+    "license": "MIT"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "hash": "f6cd8a0118dddb199849eb27c49d5e2c9caa5edabbb2c83466a7f481038e18a7",
+  "type": "theme",
+  "about": {
+    "name": "Pyrite",
+    "authors": [
+      "LeafyLuigi"
+    ],
+    "description": "Pyrite for BetterDiscord/BandagedBD.",
+    "version": "0.2.0",
+    "license": "MIT"
+  }
+}

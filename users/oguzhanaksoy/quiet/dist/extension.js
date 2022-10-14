@@ -1,0 +1,1 @@
+(function(c){"use strict";let t;var r={load(){t=c.injectCSS('@import"https://cdn.statically.io/gh/squee666/Discord-Themes/master/css/Quiet.css";:root{--mc: #cc1444 !important;--hc: #770425 !important;--br: 50px !important;--QT: #19191b ;--QTD: #121213}')},unload(){t()}};return r})(acord.patcher);

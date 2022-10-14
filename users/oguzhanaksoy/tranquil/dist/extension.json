@@ -1,0 +1,13 @@
+{
+  "hash": "07674abedf56fa5fec004e1a13928d02ab4fb1b0e3083e3cd4371cfa137e4a88",
+  "type": "theme",
+  "about": {
+    "name": "Tranquil",
+    "authors": [
+      "Id     402272736665272320"
+    ],
+    "description": "Phoenix Theme Bundle: Primarily dark theme that's easy on the eyes [Also supports light theme which is less easy on the eyes]",
+    "version": "1.5",
+    "license": "MIT"
+  }
+}

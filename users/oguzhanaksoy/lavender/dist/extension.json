@@ -1,0 +1,13 @@
+{
+  "hash": "574e914cafcf9d7122d1eaac76072e4d75ae3e744f97323e4a9fcf4f28ab7e01",
+  "type": "theme",
+  "about": {
+    "name": "Lavender",
+    "authors": [
+      "Link https://github.com/Obscure-Git"
+    ],
+    "description": "A very customizeable and good looking discord theme.",
+    "version": "3.0.1",
+    "license": "MIT"
+  }
+}

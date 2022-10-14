@@ -1,0 +1,13 @@
+{
+  "hash": "137f5ffa5c79eafd15a4ced70ea9f119aade7c45ee2240033c0c1135e553b2fb",
+  "type": "theme",
+  "about": {
+    "name": "LilyPichu",
+    "authors": [
+      "Nyria#3863"
+    ],
+    "description": "A theme based on @Melonturtle_ stream design",
+    "version": "1.0",
+    "license": "MIT"
+  }
+}

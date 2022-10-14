@@ -1,0 +1,13 @@
+{
+  "hash": "62cf6c5aa68bc4e1cb2506f2e55923eb9ebd1a25d7de9d26b3fe652429e103c6",
+  "type": "theme",
+  "about": {
+    "name": "midnight",
+    "authors": [
+      "Id 508863359777505290"
+    ],
+    "description": "A darkened discord theme.",
+    "version": "1.2.0",
+    "license": "MIT"
+  }
+}

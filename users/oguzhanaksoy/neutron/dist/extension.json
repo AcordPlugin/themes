@@ -1,0 +1,13 @@
+{
+  "hash": "1c025862a81637ef27d65cab29e8bfb2d32ff98b17bb182d3260bf7364284704",
+  "type": "theme",
+  "about": {
+    "name": "Neutron",
+    "authors": [
+      "Spectra#7698"
+    ],
+    "description": "A simple but highly customizable theme, now sugar free!",
+    "version": "8.0",
+    "license": "MIT"
+  }
+}

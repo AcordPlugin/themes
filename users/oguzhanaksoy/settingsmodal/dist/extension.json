@@ -1,0 +1,13 @@
+{
+  "hash": "11995bcd4ae0be979ce040f16a33ed4e81452709c874ec4e8f92ec860ea608f4",
+  "type": "theme",
+  "about": {
+    "name": "SettingsModal",
+    "authors": [
+      "Id 278543574059057154"
+    ],
+    "description": "Turns Settings Windows like User-/Channel-/Serversettings and Boost Overview into Modals",
+    "version": "1.0.0",
+    "license": "MIT"
+  }
+}

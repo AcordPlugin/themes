@@ -1,0 +1,13 @@
+{
+  "hash": "e366224460a6abbaa61310002f116ee90ac49608e490afa90a292be430e93e76",
+  "type": "theme",
+  "about": {
+    "name": "Solana",
+    "authors": [
+      "Id 678469587444170762"
+    ],
+    "description": "macOS with barely any customization.",
+    "version": "1.0.0",
+    "license": "MIT"
+  }
+}

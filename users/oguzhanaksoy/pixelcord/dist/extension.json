@@ -1,0 +1,13 @@
+{
+  "hash": "fddab40ff2da3a0fd2dcf2b2b3c6d425cfbbf3bb81be28a2003e5e7018c7b2f0",
+  "type": "theme",
+  "about": {
+    "name": "Pixelcord",
+    "authors": [
+      "Hyblocker"
+    ],
+    "description": "Material Design Theme with numerous enhancements for Discord",
+    "version": "3.5.2",
+    "license": "MIT"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "hash": "39a936b2be7fd1cbff5e11b0459e70eee4810dc796b6a93e355cc8713a845828",
+  "type": "theme",
+  "about": {
+    "name": "Nox",
+    "authors": [
+      "Link https://twitter.com/IAmZerebos"
+    ],
+    "description": "A theme for Discord *loosely* based on Google's Material Design Guidelines.",
+    "version": "1.0.0",
+    "license": "MIT"
+  }
+}

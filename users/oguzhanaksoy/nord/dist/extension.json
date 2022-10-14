@@ -1,0 +1,13 @@
+{
+  "hash": "928271fbb65da978f59c5f95faaef090fa5cdf3c43ee535342100ba8834485f4",
+  "type": "theme",
+  "about": {
+    "name": "Nord",
+    "authors": [
+      "Daggy1234"
+    ],
+    "description": "A theme for discord inspired by the deep blues of the Atlantic",
+    "version": "1.0.0",
+    "license": "MIT"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "hash": "65bf768fb6600a99f97b3a01ddc9dbe0c9d9b78146f65e845e8e091073a8f6bf",
+  "type": "theme",
+  "about": {
+    "name": "MixPack",
+    "authors": [
+      "Mixter213"
+    ],
+    "description": "A pack that combines things I've created and liked the look of.",
+    "version": "1.0",
+    "license": "MIT"
+  }
+}

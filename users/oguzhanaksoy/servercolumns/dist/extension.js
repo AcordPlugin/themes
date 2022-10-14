@@ -1,0 +1,1 @@
+(function(e){"use strict";let t;var r={load(){t=e.injectCSS('@import"https://mwittrien.github.io/BetterDiscordAddons/Themes/ServerColumns/ServerColumns.css";:root{--columns: 3;--guildsize: 50;--guildgap: 3;--aligndms: 0}')},unload(){t()}};return r})(acord.patcher);

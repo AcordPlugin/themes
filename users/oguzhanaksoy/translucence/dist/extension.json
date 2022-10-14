@@ -1,0 +1,13 @@
+{
+  "hash": "3d742382f3bc3872a00523238584a4b3bc3bf018c2de7dd2bffa780a3bb3626b",
+  "type": "theme",
+  "about": {
+    "name": "Translucence",
+    "authors": [
+      "CapnKitten"
+    ],
+    "description": "A translucent/frosted glass Discord theme",
+    "version": "1.0.6.3",
+    "license": "MIT"
+  }
+}

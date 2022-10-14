@@ -1,0 +1,13 @@
+{
+  "hash": "da4e68bf391a4b54cd4b28689f7de56f65d9af4ea0f708f8a518e2ec2586b9f9",
+  "type": "theme",
+  "about": {
+    "name": "Tokyo Night",
+    "authors": [
+      "Id 2354831939099688962"
+    ],
+    "description": "Discord Port of Visual Studio Code Theme",
+    "version": "2.0.2",
+    "license": "MIT"
+  }
+}

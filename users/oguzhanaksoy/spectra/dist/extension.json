@@ -1,0 +1,13 @@
+{
+  "hash": "9fd52bdd0597bf9b01e28573dee46db8592a3a15b77ac8f3fc29339e9c38bf40",
+  "type": "theme",
+  "about": {
+    "name": "Spectra",
+    "authors": [
+      "Id     583750578094735360"
+    ],
+    "description": "A dark theme letting the light shine through! Spectra is a visability focused theme that is still light on your eyes.",
+    "version": "1.1",
+    "license": "MIT"
+  }
+}

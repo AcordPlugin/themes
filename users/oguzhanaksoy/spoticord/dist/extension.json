@@ -1,0 +1,13 @@
+{
+  "hash": "f2a01b6c8ddd7f0518c6b7505227294ba6b303274d12048b3499408c4cecc2ed",
+  "type": "theme",
+  "about": {
+    "name": "SpotiCord",
+    "authors": [
+      "Id 741262207391629343"
+    ],
+    "description": "Light-weight Spotify theme for Discord",
+    "version": "AutoUpdating",
+    "license": "MIT"
+  }
+}

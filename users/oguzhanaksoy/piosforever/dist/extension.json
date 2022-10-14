@@ -1,0 +1,13 @@
+{
+  "hash": "0fc4775c3bb43759a2da31f25b8ff44dd5f91bf375ed04d207a26abc113fe18c",
+  "type": "theme",
+  "about": {
+    "name": "piOS Forever",
+    "authors": [
+      "Link https://github.com/Saltssaumure"
+    ],
+    "description": "SUPERHOT piOS inspired theme. With customisable colours, glow intensity, support for both cosy and compact mode.",
+    "version": "Autoupdate6",
+    "license": "MIT"
+  }
+}

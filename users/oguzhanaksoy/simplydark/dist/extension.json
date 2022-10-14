@@ -1,0 +1,13 @@
+{
+  "hash": "4e3dcfc57f947443d928e1a3a9614c53261157710fa8ec169c217a3c877e50d0",
+  "type": "theme",
+  "about": {
+    "name": "SimplyDark",
+    "authors": [
+      "Gibbu#1211"
+    ],
+    "description": "A sharp and simple theme for Discord",
+    "version": "3.0.0",
+    "license": "MIT"
+  }
+}

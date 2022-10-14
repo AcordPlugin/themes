@@ -1,0 +1,13 @@
+{
+  "hash": "e6d93b38f00eef84741fdc6d68e5e68c27be9e304caad9104377d8b1e221523c",
+  "type": "theme",
+  "about": {
+    "name": "ServerColumns",
+    "authors": [
+      "Id 278543574059057154"
+    ],
+    "description": "Changes the Server List to a grid-like Structure which allows any Amount of Columns",
+    "version": "1.0.6",
+    "license": "MIT"
+  }
+}

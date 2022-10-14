@@ -1,0 +1,13 @@
+{
+  "hash": "20bbd292be22976d4879f7db0210be0eddafe40cf1b57ef8b57362d8a2d1d35d",
+  "type": "theme",
+  "about": {
+    "name": "negcontrast",
+    "authors": [
+      "jackcook99"
+    ],
+    "description": "a dim low contrast them meant to be easy on the eyes",
+    "version": "Auto",
+    "license": "MIT"
+  }
+}

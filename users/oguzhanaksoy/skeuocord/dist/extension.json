@@ -1,0 +1,13 @@
+{
+  "hash": "89610434954daf6f6ca4ee1fea783d712b495c7c745761d9dc637efc6d45dc05",
+  "type": "theme",
+  "about": {
+    "name": "SkeuoCord",
+    "authors": [
+      "Marda33"
+    ],
+    "description": "A complete skeuomorphic overhaul for Discord.",
+    "version": "1 (Auto Update)",
+    "license": "MIT"
+  }
+}

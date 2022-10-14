@@ -1,0 +1,13 @@
+{
+  "hash": "2c9cdc4ab5153e88d9562acf3128acae35f929a85fbba8026eeaf170a4f8b7da",
+  "type": "theme",
+  "about": {
+    "name": "NotAnotherAnimeTheme",
+    "authors": [
+      "puckzxz#2080"
+    ],
+    "description": "An easily customizable and automatically updating theme",
+    "version": "3.2",
+    "license": "MIT"
+  }
+}

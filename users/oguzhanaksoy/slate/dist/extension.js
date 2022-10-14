@@ -1,0 +1,1 @@
+(function(s){"use strict";let t;var e={load(){t=s.injectCSS('@import"https://discordstyles.github.io/AdjustableServerWidth/base.css";@import"https://discordstyles.github.io/Slate/dist/Slate.css";:root{--accent: 3, 102, 214;--link-colour: 48, 144, 255;--server-icon-size: 35px;--server-icon-spacing: 8px;--server-container-padding: 10px}')},unload(){t()}};return e})(acord.patcher);

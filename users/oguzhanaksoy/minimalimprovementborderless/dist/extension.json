@@ -1,0 +1,13 @@
+{
+  "hash": "a2502578ce7ea33411478773b34726f4ef2c3f60555add352f89dd52c0a2a746",
+  "type": "theme",
+  "about": {
+    "name": "Example theme",
+    "authors": [
+      "Unknown"
+    ],
+    "description": "Example description.",
+    "version": "0.0.1",
+    "license": "MIT"
+  }
+}
