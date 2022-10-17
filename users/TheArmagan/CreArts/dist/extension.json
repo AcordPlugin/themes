@@ -1,5 +1,5 @@
 {
-  "hash": "c0094796d2490b30d7428c3ebaa1a6b65cda04b40d671b2e5f214f9b6f1de1e5",
+  "hash": "c0094796d2490b30d7428c3ebaa1a6b65cda04b40d671b2e5f214f9b6f1de1e6",
   "type": "theme",
   "about": {
     "name": "CreArts (Configurable)",
@@ -11,6 +11,7 @@
     ],
     "description": "CreArts is a theme for Discord that gives you a new modern interface.",
     "version": "3.0.3",
-    "license": "MIT"
+    "license": "MIT",
+    "preview": "https://cdn.discordapp.com/attachments/887446333047312464/1031688126889996370/unknown.png"
   }
 }
