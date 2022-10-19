@@ -8,6 +8,7 @@
     ],
     "description": "Turns Settings Windows like User-/Channel-/Serversettings and Boost Overview into Modals",
     "version": "1.0.0",
-    "license": "MIT"
+    "license": "MIT",
+    "preview":"https://media.discordapp.net/attachments/887446333047312464/1032425175402151996/unknown.png"
   }
 }
