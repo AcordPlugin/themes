@@ -1,0 +1,1432 @@
+[
+  {
+    "manifest": {
+      "hash": "eed05a12cdcab8dbd6c8b6c05862128457fac905e77382ecfaf486654b18d331",
+      "type": "theme",
+      "about": {
+        "name": "Alexis Modern Discord Theme",
+        "authors": [
+          "Link https://twitter.com/WyvernZu"
+        ],
+        "description": "A decluttered, simple, and modern theme for Discord.",
+        "version": "21.07.22",
+        "license": "MIT"
+      }
+    },
+    "user": "oguzhanaksoy",
+    "slug": "modern-discord",
+    "url": "https://raw.githubusercontent.com/AcordPlugin/themes/main/users/oguzhanaksoy/modern-discord/dist/"
+  },
+  {
+    "manifest": {
+      "hash": "923e356b4e5cc232b8a6cdde0e27ea3e873f1261ab391bbb15c351053e61ee6b",
+      "type": "theme",
+      "about": {
+        "name": "CreArts",
+        "authors": [
+          "CorellanStoma",
+          "PhoenixAceVFX",
+          "AMTitan",
+          "ThePlay3r"
+        ],
+        "description": "CreArts is a theme for Discord that gives you a new modern interface.",
+        "version": "3.0.3",
+        "license": "MIT"
+      }
+    },
+    "user": "ErdemGKSL",
+    "slug": "CreArts",
+    "url": "https://raw.githubusercontent.com/AcordPlugin/themes/main/users/ErdemGKSL/CreArts/dist/"
+  },
+  {
+    "manifest": {
+      "hash": "c0094796d2490b30d7428c3ebaa1a6b65cda04b40d671b2e5f214f9b6f1de1e6",
+      "type": "theme",
+      "about": {
+        "name": "CreArts (Configurable)",
+        "authors": [
+          "CorellanStoma",
+          "PhoenixAceVFX",
+          "AMTitan",
+          "ThePlay3r"
+        ],
+        "description": "CreArts is a theme for Discord that gives you a new modern interface.",
+        "version": "3.0.3",
+        "license": "MIT",
+        "preview": "https://cdn.discordapp.com/attachments/887446333047312464/1031688126889996370/unknown.png"
+      }
+    },
+    "user": "TheArmagan",
+    "slug": "CreArts",
+    "url": "https://raw.githubusercontent.com/AcordPlugin/themes/main/users/TheArmagan/CreArts/dist/"
+  },
+  {
+    "manifest": {
+      "hash": "7767cb133e2877540fdffb97d21c0f9697b0f59f53c5ed011174f853c4bb6eed",
+      "type": "theme",
+      "about": {
+        "name": "Example theme",
+        "authors": [
+          "Unknown"
+        ],
+        "description": "Example description.",
+        "version": "0.0.1",
+        "license": "MIT"
+      }
+    },
+    "user": "oguzhanaksoy",
+    "slug": "minimalimprovement",
+    "url": "https://raw.githubusercontent.com/AcordPlugin/themes/main/users/oguzhanaksoy/minimalimprovement/dist/"
+  },
+  {
+    "manifest": {
+      "hash": "a2502578ce7ea33411478773b34726f4ef2c3f60555add352f89dd52c0a2a746",
+      "type": "theme",
+      "about": {
+        "name": "Example theme",
+        "authors": [
+          "Unknown"
+        ],
+        "description": "Example description.",
+        "version": "0.0.1",
+        "license": "MIT"
+      }
+    },
+    "user": "oguzhanaksoy",
+    "slug": "minimalimprovementborderless",
+    "url": "https://raw.githubusercontent.com/AcordPlugin/themes/main/users/oguzhanaksoy/minimalimprovementborderless/dist/"
+  },
+  {
+    "manifest": {
+      "hash": "1e0f7e0167face01318ecfcc39c37224db22755dff74b8c9a37bb20aebf32c5a",
+      "type": "theme",
+      "about": {
+        "name": "Fallout 4 Theme",
+        "authors": [
+          "Bates#7075"
+        ],
+        "description": "A theme inspired by Fallout 4's terminals!",
+        "version": "1.0.0",
+        "license": "MIT"
+      }
+    },
+    "user": "oguzhanaksoy",
+    "slug": "fallout4",
+    "url": "https://raw.githubusercontent.com/AcordPlugin/themes/main/users/oguzhanaksoy/fallout4/dist/"
+  },
+  {
+    "manifest": {
+      "hash": "72d9ecea3b96aee770c8f1d8cb83fb536ea1b05492470890b69caaf59d01933d",
+      "type": "theme",
+      "about": {
+        "name": "Float",
+        "authors": [
+          "Id 678469587444170762"
+        ],
+        "description": "Compact mobile Discord with customization.",
+        "version": "2.0.1",
+        "license": "MIT"
+      }
+    },
+    "user": "oguzhanaksoy",
+    "slug": "zfloat",
+    "url": "https://raw.githubusercontent.com/AcordPlugin/themes/main/users/oguzhanaksoy/zfloat/dist/"
+  },
+  {
+    "manifest": {
+      "hash": "bfc3e492462afeae6ce7bab2c741ec1549651dc2d50e8b61694398a7979777ee",
+      "type": "theme",
+      "about": {
+        "name": "Fluent Discord",
+        "authors": [
+          "TakosThings"
+        ],
+        "description": "Fluent theme for Discord.",
+        "version": "0.1.0",
+        "license": "MIT"
+      }
+    },
+    "user": "TheArmagan",
+    "slug": "fluent",
+    "url": "https://raw.githubusercontent.com/AcordPlugin/themes/main/users/TheArmagan/fluent/dist/"
+  },
+  {
+    "manifest": {
+      "hash": "e29e3ec5cd3807371572dceddd77bf91a433f2a14e4f33e46e2c2c54aae78603",
+      "type": "theme",
+      "about": {
+        "name": "Frosted Glass",
+        "authors": [
+          "Id 174868361040232448"
+        ],
+        "description": "Display your picture of choice with adjustable blur and brightness. Dark theme is required.",
+        "version": "2.0.0",
+        "license": "MIT"
+      }
+    },
+    "user": "oguzhanaksoy",
+    "slug": "frostedglass",
+    "url": "https://raw.githubusercontent.com/AcordPlugin/themes/main/users/oguzhanaksoy/frostedglass/dist/"
+  },
+  {
+    "manifest": {
+      "hash": "ba9fa3c448466b6f15bb68865114030ce340bce8020b5f30156bed3f1f717f01",
+      "type": "theme",
+      "about": {
+        "name": "GGO Kirito",
+        "authors": [
+          "VaporousCreeper"
+        ],
+        "description": "A theme with Kirito and Deathgun fighting in GGO (Gun Gale Online)",
+        "version": "1.2.X",
+        "license": "MIT"
+      }
+    },
+    "user": "oguzhanaksoy",
+    "slug": "ggo_kirito",
+    "url": "https://raw.githubusercontent.com/AcordPlugin/themes/main/users/oguzhanaksoy/ggo_kirito/dist/"
+  },
+  {
+    "manifest": {
+      "hash": "58922c701e8ac48ae180d6a5ac0b35a9ffb2e1d373d2464e5ba5478408ac3b27",
+      "type": "theme",
+      "about": {
+        "name": "GitHub Dark",
+        "authors": [
+          "Sango"
+        ],
+        "description": "A theme based off of the GitHub Dark theme.",
+        "version": "1.0.0",
+        "license": "MIT"
+      }
+    },
+    "user": "oguzhanaksoy",
+    "slug": "github-dark",
+    "url": "https://raw.githubusercontent.com/AcordPlugin/themes/main/users/oguzhanaksoy/github-dark/dist/"
+  },
+  {
+    "manifest": {
+      "hash": "db64347ef1233d031d5489f1e8623e13b783bec72139ae91698579d7b18915c2",
+      "type": "theme",
+      "about": {
+        "name": "Horizontal Server List",
+        "authors": [
+          "Gibbu#1211"
+        ],
+        "description": "Moves the server list from the left to the top of Discord. Compatible with Server Folders and most basic transparent themes",
+        "version": "2.1.0",
+        "license": "MIT"
+      }
+    },
+    "user": "oguzhanaksoy",
+    "slug": "horizontalserverlist",
+    "url": "https://raw.githubusercontent.com/AcordPlugin/themes/main/users/oguzhanaksoy/horizontalserverlist/dist/"
+  },
+  {
+    "manifest": {
+      "hash": "e80f70ccfb450da0eefb49f31b8e8212366a48e34bb30f8b52b80b84f47a51a8",
+      "type": "theme",
+      "about": {
+        "name": "IEYTD",
+        "authors": [
+          "Saltssaumure#7557"
+        ],
+        "description": "I Expect You To Die inspired Discord theme.",
+        "version": "Autoupdate v2",
+        "license": "MIT"
+      }
+    },
+    "user": "oguzhanaksoy",
+    "slug": "ieytd",
+    "url": "https://raw.githubusercontent.com/AcordPlugin/themes/main/users/oguzhanaksoy/ieytd/dist/"
+  },
+  {
+    "manifest": {
+      "hash": "856a901878ba1e8177e4deeeded0c43acac8080c91b0f2f35b396742560613f7",
+      "type": "theme",
+      "about": {
+        "name": "Just_Black",
+        "authors": [
+          "Id 376086802961793024"
+        ],
+        "description": "Revival of JustBlack Theme by Dddsasul: \"A nice and black theme\"",
+        "version": "4.3.0",
+        "license": "MIT"
+      }
+    },
+    "user": "oguzhanaksoy",
+    "slug": "just_black",
+    "url": "https://raw.githubusercontent.com/AcordPlugin/themes/main/users/oguzhanaksoy/just_black/dist/"
+  },
+  {
+    "manifest": {
+      "hash": "c3dad91f5beec3b2fdc594fc92b0cbb3a2a390483905ddea44f843c0bc065271",
+      "type": "theme",
+      "about": {
+        "name": "kaleidoscope",
+        "authors": [
+          "mackenzie#0173"
+        ],
+        "description": "A vibrant, colourful dark theme inspired by the 2077 theme for VSCode.",
+        "version": "2.4.2",
+        "license": "MIT"
+      }
+    },
+    "user": "oguzhanaksoy",
+    "slug": "kaleidoscope",
+    "url": "https://raw.githubusercontent.com/AcordPlugin/themes/main/users/oguzhanaksoy/kaleidoscope/dist/"
+  },
+  {
+    "manifest": {
+      "hash": "574e914cafcf9d7122d1eaac76072e4d75ae3e744f97323e4a9fcf4f28ab7e01",
+      "type": "theme",
+      "about": {
+        "name": "Lavender",
+        "authors": [
+          "Link https://github.com/Obscure-Git"
+        ],
+        "description": "A very customizeable and good looking discord theme.",
+        "version": "3.0.1",
+        "license": "MIT"
+      }
+    },
+    "user": "oguzhanaksoy",
+    "slug": "lavender",
+    "url": "https://raw.githubusercontent.com/AcordPlugin/themes/main/users/oguzhanaksoy/lavender/dist/"
+  },
+  {
+    "manifest": {
+      "hash": "137f5ffa5c79eafd15a4ced70ea9f119aade7c45ee2240033c0c1135e553b2fb",
+      "type": "theme",
+      "about": {
+        "name": "LilyPichu",
+        "authors": [
+          "Nyria#3863"
+        ],
+        "description": "A theme based on @Melonturtle_ stream design",
+        "version": "1.0",
+        "license": "MIT"
+      }
+    },
+    "user": "oguzhanaksoy",
+    "slug": "lilypichu",
+    "url": "https://raw.githubusercontent.com/AcordPlugin/themes/main/users/oguzhanaksoy/lilypichu/dist/"
+  },
+  {
+    "manifest": {
+      "hash": "b82aad8126f51824559a4e83a7d958007664aa6992323f7617353f4a25739041",
+      "type": "theme",
+      "about": {
+        "name": "Material Discord",
+        "authors": [
+          "CapnKitten"
+        ],
+        "description": "A theme based on Google's Material Design",
+        "version": "3.0.4",
+        "license": "MIT"
+      }
+    },
+    "user": "oguzhanaksoy",
+    "slug": "material-discord",
+    "url": "https://raw.githubusercontent.com/AcordPlugin/themes/main/users/oguzhanaksoy/material-discord/dist/"
+  },
+  {
+    "manifest": {
+      "hash": "c558cf84a42608e6be74ace2f6d2a3818a9719ab4c623b0a41a93f8ed7646a9a",
+      "type": "theme",
+      "about": {
+        "name": "MaterialDesign",
+        "authors": [
+          "Id 538487970408300544"
+        ],
+        "description": "A clean theme inspired by Google's Material Design Guidelines.",
+        "version": "0.9.9",
+        "license": "MIT"
+      }
+    },
+    "user": "oguzhanaksoy",
+    "slug": "materialdesign",
+    "url": "https://raw.githubusercontent.com/AcordPlugin/themes/main/users/oguzhanaksoy/materialdesign/dist/"
+  },
+  {
+    "manifest": {
+      "hash": "b71dadc49d0844bf165977b022eccd660d110366b5adb8e2f9fb7420f1448367",
+      "type": "theme",
+      "about": {
+        "name": "Materialistic",
+        "authors": [
+          "BigMeanie"
+        ],
+        "description": "A clean material design theme for discord with a simple accent color",
+        "version": "1.0.0",
+        "license": "MIT"
+      }
+    },
+    "user": "oguzhanaksoy",
+    "slug": "materialistic",
+    "url": "https://raw.githubusercontent.com/AcordPlugin/themes/main/users/oguzhanaksoy/materialistic/dist/"
+  },
+  {
+    "manifest": {
+      "hash": "62cf6c5aa68bc4e1cb2506f2e55923eb9ebd1a25d7de9d26b3fe652429e103c6",
+      "type": "theme",
+      "about": {
+        "name": "midnight",
+        "authors": [
+          "Id 508863359777505290"
+        ],
+        "description": "A darkened discord theme.",
+        "version": "1.2.0",
+        "license": "MIT"
+      }
+    },
+    "user": "oguzhanaksoy",
+    "slug": "midnight",
+    "url": "https://raw.githubusercontent.com/AcordPlugin/themes/main/users/oguzhanaksoy/midnight/dist/"
+  },
+  {
+    "manifest": {
+      "hash": "fe153b32c8049c801fd93ee4db2282a64d2924dfcdeca473aa9af26230fd3254",
+      "type": "theme",
+      "about": {
+        "name": "MinimalCord",
+        "authors": [
+          "Gibbu#1211"
+        ],
+        "description": "Changes Discord enough to give it a fresh feel while also making it darker. Supports both Light and Dark themes.",
+        "version": "2.0.0",
+        "license": "MIT"
+      }
+    },
+    "user": "oguzhanaksoy",
+    "slug": "minimalcord",
+    "url": "https://raw.githubusercontent.com/AcordPlugin/themes/main/users/oguzhanaksoy/minimalcord/dist/"
+  },
+  {
+    "manifest": {
+      "hash": "4ef777b5225d0cc92fbb4d5327f98061ce22285622cbd12d9b11c3095161834c",
+      "type": "theme",
+      "about": {
+        "name": "MinimalMode",
+        "authors": [
+          "SmolAlli, Zerebos, and others."
+        ],
+        "description": "A theme based on BetterDiscord's built-in Minimal Mode",
+        "version": "1.0.0",
+        "license": "MIT"
+      }
+    },
+    "user": "oguzhanaksoy",
+    "slug": "minimalmode",
+    "url": "https://raw.githubusercontent.com/AcordPlugin/themes/main/users/oguzhanaksoy/minimalmode/dist/"
+  },
+  {
+    "manifest": {
+      "hash": "65bf768fb6600a99f97b3a01ddc9dbe0c9d9b78146f65e845e8e091073a8f6bf",
+      "type": "theme",
+      "about": {
+        "name": "MixPack",
+        "authors": [
+          "Mixter213"
+        ],
+        "description": "A pack that combines things I've created and liked the look of.",
+        "version": "1.0",
+        "license": "MIT"
+      }
+    },
+    "user": "oguzhanaksoy",
+    "slug": "mixpack",
+    "url": "https://raw.githubusercontent.com/AcordPlugin/themes/main/users/oguzhanaksoy/mixpack/dist/"
+  },
+  {
+    "manifest": {
+      "hash": "6452c5562b546ca5e2199f59dd09c30cde88ecf9176c142468ecbf4ee73b19d1",
+      "type": "theme",
+      "about": {
+        "name": "Moon Rabbits Dream About Virtual",
+        "authors": [
+          "Id 403725623161257984"
+        ],
+        "description": "Based in Tsukino Mito Album cover",
+        "version": "2",
+        "license": "MIT"
+      }
+    },
+    "user": "oguzhanaksoy",
+    "slug": "moon-rabbits-dream-about-virtual",
+    "url": "https://raw.githubusercontent.com/AcordPlugin/themes/main/users/oguzhanaksoy/moon-rabbits-dream-about-virtual/dist/"
+  },
+  {
+    "manifest": {
+      "hash": "20bbd292be22976d4879f7db0210be0eddafe40cf1b57ef8b57362d8a2d1d35d",
+      "type": "theme",
+      "about": {
+        "name": "negcontrast",
+        "authors": [
+          "jackcook99"
+        ],
+        "description": "a dim low contrast them meant to be easy on the eyes",
+        "version": "Auto",
+        "license": "MIT"
+      }
+    },
+    "user": "oguzhanaksoy",
+    "slug": "negcontrast",
+    "url": "https://raw.githubusercontent.com/AcordPlugin/themes/main/users/oguzhanaksoy/negcontrast/dist/"
+  },
+  {
+    "manifest": {
+      "hash": "6c3959189a53eed992eb3c746cdc7e7d053deb5e61147fe3eb279cf65fab35c5",
+      "type": "theme",
+      "about": {
+        "name": "Neptune",
+        "authors": [
+          "Link https://devevil.com"
+        ],
+        "description": "A dark, blue and customizable theme",
+        "version": "2.0",
+        "license": "MIT"
+      }
+    },
+    "user": "oguzhanaksoy",
+    "slug": "neptune",
+    "url": "https://raw.githubusercontent.com/AcordPlugin/themes/main/users/oguzhanaksoy/neptune/dist/"
+  },
+  {
+    "manifest": {
+      "hash": "1c025862a81637ef27d65cab29e8bfb2d32ff98b17bb182d3260bf7364284704",
+      "type": "theme",
+      "about": {
+        "name": "Neutron",
+        "authors": [
+          "Spectra#7698"
+        ],
+        "description": "A simple but highly customizable theme, now sugar free!",
+        "version": "8.0",
+        "license": "MIT"
+      }
+    },
+    "user": "oguzhanaksoy",
+    "slug": "neutron",
+    "url": "https://raw.githubusercontent.com/AcordPlugin/themes/main/users/oguzhanaksoy/neutron/dist/"
+  },
+  {
+    "manifest": {
+      "hash": "9ddcd0f9e5babc489da25ca5a1ed7a1172f97a795974d0f54038b61488051f09",
+      "type": "theme",
+      "about": {
+        "name": "New Akame Ga Kill! Theme",
+        "authors": [
+          "ShadowDevilsAvenged"
+        ],
+        "description": "Newer Akame Ga Kill! theme for my return",
+        "version": "3",
+        "license": "MIT"
+      }
+    },
+    "user": "oguzhanaksoy",
+    "slug": "newakamegakill",
+    "url": "https://raw.githubusercontent.com/AcordPlugin/themes/main/users/oguzhanaksoy/newakamegakill/dist/"
+  },
+  {
+    "manifest": {
+      "hash": "edbf3063a81fff2e58f7282b38b5cf739c77c50b9797a84fef1fd21a52c0e633",
+      "type": "theme",
+      "about": {
+        "name": "New BNHA Theme",
+        "authors": [
+          "ShadowDevilsAvenged"
+        ],
+        "description": "Newer BNHA theme for my return",
+        "version": "3",
+        "license": "MIT"
+      }
+    },
+    "user": "oguzhanaksoy",
+    "slug": "newbnha",
+    "url": "https://raw.githubusercontent.com/AcordPlugin/themes/main/users/oguzhanaksoy/newbnha/dist/"
+  },
+  {
+    "manifest": {
+      "hash": "434521095ae45435a57d616f42173f4a555dab94e6ab437fed1c05b19fa5f667",
+      "type": "theme",
+      "about": {
+        "name": "New Kemono Friends Theme",
+        "authors": [
+          "ShadowDevilsAvenged"
+        ],
+        "description": "Newer Kemono Friends theme for my return",
+        "version": "3",
+        "license": "MIT"
+      }
+    },
+    "user": "oguzhanaksoy",
+    "slug": "newkemonofriends",
+    "url": "https://raw.githubusercontent.com/AcordPlugin/themes/main/users/oguzhanaksoy/newkemonofriends/dist/"
+  },
+  {
+    "manifest": {
+      "hash": "5542dc9201b0d307f7aab513296620913ee728582fa9d6bc962bc890c48f4401",
+      "type": "theme",
+      "about": {
+        "name": "New Nihilism",
+        "authors": [
+          "Link https://github.com/ObserverOfTime"
+        ],
+        "description": "A dark and compact theme, designed for use with Discord's dark theme.",
+        "version": "1.11.0",
+        "license": "MIT"
+      }
+    },
+    "user": "oguzhanaksoy",
+    "slug": "newnihilism",
+    "url": "https://raw.githubusercontent.com/AcordPlugin/themes/main/users/oguzhanaksoy/newnihilism/dist/"
+  },
+  {
+    "manifest": {
+      "hash": "d6bb3102813014be328c77ea81ef6f0aaa63789dc8b1d516a35de9b34c268c39",
+      "type": "theme",
+      "about": {
+        "name": "New Rem Theme",
+        "authors": [
+          "ShadowDevilsAvenged"
+        ],
+        "description": "Newer Rem theme for my return",
+        "version": "3",
+        "license": "MIT"
+      }
+    },
+    "user": "oguzhanaksoy",
+    "slug": "newremtheme",
+    "url": "https://raw.githubusercontent.com/AcordPlugin/themes/main/users/oguzhanaksoy/newremtheme/dist/"
+  },
+  {
+    "manifest": {
+      "hash": "2547cca0d881e6dc2cca048bf7243f5850d4d97aba4396f48fbe74286c4d93af",
+      "type": "theme",
+      "about": {
+        "name": "NieR: Automata UI Light",
+        "authors": [
+          "Id 153562159161278473"
+        ],
+        "description": "Glory to Mankind. ||",
+        "version": "1.4",
+        "license": "MIT"
+      }
+    },
+    "user": "oguzhanaksoy",
+    "slug": "nier-light-source",
+    "url": "https://raw.githubusercontent.com/AcordPlugin/themes/main/users/oguzhanaksoy/nier-light-source/dist/"
+  },
+  {
+    "manifest": {
+      "hash": "73a40402da1451b773ebe14d9dda7295dbc60898388e831a70cc57d5fbae9242",
+      "type": "theme",
+      "about": {
+        "name": "noctis-viola-discord-theme",
+        "authors": [
+          "Id    0"
+        ],
+        "description": "A Better Discord theme based on the Noctis Viola VSCode theme.",
+        "version": "0.6.1",
+        "license": "MIT"
+      }
+    },
+    "user": "oguzhanaksoy",
+    "slug": "noctis-viola",
+    "url": "https://raw.githubusercontent.com/AcordPlugin/themes/main/users/oguzhanaksoy/noctis-viola/dist/"
+  },
+  {
+    "manifest": {
+      "hash": "7f797877ce511215feb4c5042d76ea75f0842e2cb43bc78da5e5def8fbb6ff4c",
+      "type": "theme",
+      "about": {
+        "name": "Nocturnal",
+        "authors": [
+          "Spectra#4577"
+        ],
+        "description": "For when default discord just isn't dark enough, a theme for those who live a night",
+        "version": "3.0.0",
+        "license": "MIT"
+      }
+    },
+    "user": "oguzhanaksoy",
+    "slug": "nocturnal",
+    "url": "https://raw.githubusercontent.com/AcordPlugin/themes/main/users/oguzhanaksoy/nocturnal/dist/"
+  },
+  {
+    "manifest": {
+      "hash": "928271fbb65da978f59c5f95faaef090fa5cdf3c43ee535342100ba8834485f4",
+      "type": "theme",
+      "about": {
+        "name": "Nord",
+        "authors": [
+          "Daggy1234"
+        ],
+        "description": "A theme for discord inspired by the deep blues of the Atlantic",
+        "version": "1.0.0",
+        "license": "MIT"
+      }
+    },
+    "user": "oguzhanaksoy",
+    "slug": "nord",
+    "url": "https://raw.githubusercontent.com/AcordPlugin/themes/main/users/oguzhanaksoy/nord/dist/"
+  },
+  {
+    "manifest": {
+      "hash": "8f18cd8214283f1ce39074482066061967e401f992b724d7cba61c2cd92be9b3",
+      "type": "theme",
+      "about": {
+        "name": "Nordic",
+        "authors": [
+          "Id    179681974879911946"
+        ],
+        "description": "Complete theme for Nordic (https://www.nordtheme.com/)",
+        "version": "3.11.4",
+        "license": "MIT"
+      }
+    },
+    "user": "oguzhanaksoy",
+    "slug": "nordic",
+    "url": "https://raw.githubusercontent.com/AcordPlugin/themes/main/users/oguzhanaksoy/nordic/dist/"
+  },
+  {
+    "manifest": {
+      "hash": "2c9cdc4ab5153e88d9562acf3128acae35f929a85fbba8026eeaf170a4f8b7da",
+      "type": "theme",
+      "about": {
+        "name": "NotAnotherAnimeTheme",
+        "authors": [
+          "puckzxz#2080"
+        ],
+        "description": "An easily customizable and automatically updating theme",
+        "version": "3.2",
+        "license": "MIT"
+      }
+    },
+    "user": "oguzhanaksoy",
+    "slug": "notanotheranimetheme",
+    "url": "https://raw.githubusercontent.com/AcordPlugin/themes/main/users/oguzhanaksoy/notanotheranimetheme/dist/"
+  },
+  {
+    "manifest": {
+      "hash": "bef6121fcf32098f73243502d478c17726d914cff7563f31d351e18206442b69",
+      "type": "theme",
+      "about": {
+        "name": "NOVATURIENT",
+        "authors": [
+          "∤ YABOIWQ ∤"
+        ],
+        "description": "A theme that god chose to let you have, ENJOY!",
+        "version": "ersion: AU",
+        "license": "MIT"
+      }
+    },
+    "user": "oguzhanaksoy",
+    "slug": "novaturient",
+    "url": "https://raw.githubusercontent.com/AcordPlugin/themes/main/users/oguzhanaksoy/novaturient/dist/"
+  },
+  {
+    "manifest": {
+      "hash": "0fe49bc8698dcd6a6a90b7f143e09060d718f55dc32b1c7c10db41c3e498c809",
+      "type": "theme",
+      "about": {
+        "name": "Novum",
+        "authors": [
+          "Tomec & Saurian"
+        ],
+        "description": "Red galaxy theme enhanced with couple of addons and small features.",
+        "version": "5.6.0",
+        "license": "MIT"
+      }
+    },
+    "user": "oguzhanaksoy",
+    "slug": "novum",
+    "url": "https://raw.githubusercontent.com/AcordPlugin/themes/main/users/oguzhanaksoy/novum/dist/"
+  },
+  {
+    "manifest": {
+      "hash": "39a936b2be7fd1cbff5e11b0459e70eee4810dc796b6a93e355cc8713a845828",
+      "type": "theme",
+      "about": {
+        "name": "Nox",
+        "authors": [
+          "Link https://twitter.com/IAmZerebos"
+        ],
+        "description": "A theme for Discord *loosely* based on Google's Material Design Guidelines.",
+        "version": "1.0.0",
+        "license": "MIT"
+      }
+    },
+    "user": "oguzhanaksoy",
+    "slug": "nox",
+    "url": "https://raw.githubusercontent.com/AcordPlugin/themes/main/users/oguzhanaksoy/nox/dist/"
+  },
+  {
+    "manifest": {
+      "hash": "0b10ec1d23715ca72ae0ed18337463d37bb2f85422975964e23abc014c6d7193",
+      "type": "theme",
+      "about": {
+        "name": "Ocean",
+        "authors": [
+          "Link https://devevil.com"
+        ],
+        "description": "Highly customized and customizable theme for Discord",
+        "version": "1.0",
+        "license": "MIT"
+      }
+    },
+    "user": "oguzhanaksoy",
+    "slug": "ocean",
+    "url": "https://raw.githubusercontent.com/AcordPlugin/themes/main/users/oguzhanaksoy/ocean/dist/"
+  },
+  {
+    "manifest": {
+      "hash": "9e9233e250e45d29645aa9096037bf098f1159f88dc48ed8f8a1bd318708ca92",
+      "type": "theme",
+      "about": {
+        "name": "Old BNHA Theme Returns",
+        "authors": [
+          "ShadowDevilsAvenged"
+        ],
+        "description": "Say Hello to the BNHA theme once again",
+        "version": "3",
+        "license": "MIT"
+      }
+    },
+    "user": "oguzhanaksoy",
+    "slug": "old-bnha-theme",
+    "url": "https://raw.githubusercontent.com/AcordPlugin/themes/main/users/oguzhanaksoy/old-bnha-theme/dist/"
+  },
+  {
+    "manifest": {
+      "hash": "b7b8c9cc36e83f3b4b4424a9f7348d643628d24e62c6c00b94666cee714ff58e",
+      "type": "theme",
+      "about": {
+        "name": "Old-Akame_Ga_Kill-Theme",
+        "authors": [
+          "ShadowDevilsAvenged"
+        ],
+        "description": "Akame from Akame No Kill",
+        "version": "3",
+        "license": "MIT"
+      }
+    },
+    "user": "oguzhanaksoy",
+    "slug": "old-akamegakill-theme",
+    "url": "https://raw.githubusercontent.com/AcordPlugin/themes/main/users/oguzhanaksoy/old-akamegakill-theme/dist/"
+  },
+  {
+    "manifest": {
+      "hash": "b2caae7fe262e68f17522c7580c3573631ce2952262d16e4319466bdb46f26f0",
+      "type": "theme",
+      "about": {
+        "name": "OSX",
+        "authors": [
+          "Id 538487970408300544"
+        ],
+        "description": "Bring the best and most memorable parts of MacOS and OSX into 1 theme",
+        "version": "1.0.1",
+        "license": "MIT"
+      }
+    },
+    "user": "oguzhanaksoy",
+    "slug": "osx",
+    "url": "https://raw.githubusercontent.com/AcordPlugin/themes/main/users/oguzhanaksoy/osx/dist/"
+  },
+  {
+    "manifest": {
+      "hash": "0fc4775c3bb43759a2da31f25b8ff44dd5f91bf375ed04d207a26abc113fe18c",
+      "type": "theme",
+      "about": {
+        "name": "piOS Forever",
+        "authors": [
+          "Link https://github.com/Saltssaumure"
+        ],
+        "description": "SUPERHOT piOS inspired theme. With customisable colours, glow intensity, support for both cosy and compact mode.",
+        "version": "Autoupdate6",
+        "license": "MIT"
+      }
+    },
+    "user": "oguzhanaksoy",
+    "slug": "piosforever",
+    "url": "https://raw.githubusercontent.com/AcordPlugin/themes/main/users/oguzhanaksoy/piosforever/dist/"
+  },
+  {
+    "manifest": {
+      "hash": "fddab40ff2da3a0fd2dcf2b2b3c6d425cfbbf3bb81be28a2003e5e7018c7b2f0",
+      "type": "theme",
+      "about": {
+        "name": "Pixelcord",
+        "authors": [
+          "Hyblocker"
+        ],
+        "description": "Material Design Theme with numerous enhancements for Discord",
+        "version": "3.5.2",
+        "license": "MIT"
+      }
+    },
+    "user": "oguzhanaksoy",
+    "slug": "pixelcord",
+    "url": "https://raw.githubusercontent.com/AcordPlugin/themes/main/users/oguzhanaksoy/pixelcord/dist/"
+  },
+  {
+    "manifest": {
+      "hash": "0a2a68e2b53f5dd9eac3426798007f367e9f525396ebf81987348954831abf83",
+      "type": "theme",
+      "about": {
+        "name": "Purpura",
+        "authors": [
+          "Id 403390454273409028"
+        ],
+        "description": "A dark purple BetterDiscord theme with a multi panel look and glow.",
+        "version": "3.1.0",
+        "license": "MIT"
+      }
+    },
+    "user": "oguzhanaksoy",
+    "slug": "purpura",
+    "url": "https://raw.githubusercontent.com/AcordPlugin/themes/main/users/oguzhanaksoy/purpura/dist/"
+  },
+  {
+    "manifest": {
+      "hash": "f6cd8a0118dddb199849eb27c49d5e2c9caa5edabbb2c83466a7f481038e18a7",
+      "type": "theme",
+      "about": {
+        "name": "Pyrite",
+        "authors": [
+          "LeafyLuigi"
+        ],
+        "description": "Pyrite for BetterDiscord/BandagedBD.",
+        "version": "0.2.0",
+        "license": "MIT"
+      }
+    },
+    "user": "oguzhanaksoy",
+    "slug": "pyrite",
+    "url": "https://raw.githubusercontent.com/AcordPlugin/themes/main/users/oguzhanaksoy/pyrite/dist/"
+  },
+  {
+    "manifest": {
+      "hash": "da0233fc16025e6b52518ce90a9e556b11321c7c2337734ed40528adddb03d2f",
+      "type": "theme",
+      "about": {
+        "name": "Quiet",
+        "authors": [
+          "Id     107511169366888448"
+        ],
+        "description": "Dark and Quiet. Easy on the eyes.",
+        "version": "2.0",
+        "license": "MIT"
+      }
+    },
+    "user": "oguzhanaksoy",
+    "slug": "quiet",
+    "url": "https://raw.githubusercontent.com/AcordPlugin/themes/main/users/oguzhanaksoy/quiet/dist/"
+  },
+  {
+    "manifest": {
+      "hash": "74ffa621d182130bd496e5a39a831bb69e32a27eae7a55d1f5eacc5dad1b209a",
+      "type": "theme",
+      "about": {
+        "name": "RadialStatus",
+        "authors": [
+          "Gibbu#1211"
+        ],
+        "description": "Changes the status icons to wrap around the avatar. Shape can be changed inside the theme file.",
+        "version": "2.0.0",
+        "license": "MIT"
+      }
+    },
+    "user": "oguzhanaksoy",
+    "slug": "radialstatus",
+    "url": "https://raw.githubusercontent.com/AcordPlugin/themes/main/users/oguzhanaksoy/radialstatus/dist/"
+  },
+  {
+    "manifest": {
+      "hash": "74b6718cf11a71fcc6f0544f734c224c7830e8dfbe51c4e1f7512f5fac99f5ee",
+      "type": "theme",
+      "about": {
+        "name": "Reborn",
+        "authors": [
+          "Id     402272736665272320"
+        ],
+        "description": "Phoenix Theme Bundle: Transparent, fully customizable theme with multiple addons",
+        "version": "1.5",
+        "license": "MIT"
+      }
+    },
+    "user": "oguzhanaksoy",
+    "slug": "reborn",
+    "url": "https://raw.githubusercontent.com/AcordPlugin/themes/main/users/oguzhanaksoy/reborn/dist/"
+  },
+  {
+    "manifest": {
+      "hash": "2881fdc68bbe5e4c20f6f33f6389283824084f580ff28a16f177cd1eb688bf47",
+      "type": "theme",
+      "about": {
+        "name": "Red-n-Black",
+        "authors": [
+          "Id 332150412763332608"
+        ],
+        "description": "A simple, red and black colored theme",
+        "version": "Auto",
+        "license": "MIT"
+      }
+    },
+    "user": "oguzhanaksoy",
+    "slug": "rednblack",
+    "url": "https://raw.githubusercontent.com/AcordPlugin/themes/main/users/oguzhanaksoy/rednblack/dist/"
+  },
+  {
+    "manifest": {
+      "hash": "8c082af345cc456af6380469d84292851758a5e8ae646e279522b9c04276a8b3",
+      "type": "theme",
+      "about": {
+        "name": "Revert Rebrand",
+        "authors": [
+          "GooseNest"
+        ],
+        "description": "Reverts Discord's 2021 rebrand (font, colors, reactions, mentions, loading screen, home icon, reply ping color, and more)",
+        "version": "5.1",
+        "license": "MIT"
+      }
+    },
+    "user": "oguzhanaksoy",
+    "slug": "revertrebrand",
+    "url": "https://raw.githubusercontent.com/AcordPlugin/themes/main/users/oguzhanaksoy/revertrebrand/dist/"
+  },
+  {
+    "manifest": {
+      "hash": "ffb9f9e1b0889751f704623d5ff2297d94fbfd574cabc291cad677c41b5d3b03",
+      "type": "theme",
+      "about": {
+        "name": "Roundmoled",
+        "authors": [
+          "Id 699552486360612954"
+        ],
+        "description": "Simple amoled black + rounded corners theme",
+        "version": "1.1",
+        "license": "MIT"
+      }
+    },
+    "user": "oguzhanaksoy",
+    "slug": "roundmoled",
+    "url": "https://raw.githubusercontent.com/AcordPlugin/themes/main/users/oguzhanaksoy/roundmoled/dist/"
+  },
+  {
+    "manifest": {
+      "hash": "e6d93b38f00eef84741fdc6d68e5e68c27be9e304caad9104377d8b1e221523c",
+      "type": "theme",
+      "about": {
+        "name": "ServerColumns",
+        "authors": [
+          "Id 278543574059057154"
+        ],
+        "description": "Changes the Server List to a grid-like Structure which allows any Amount of Columns",
+        "version": "1.0.6",
+        "license": "MIT"
+      }
+    },
+    "user": "oguzhanaksoy",
+    "slug": "servercolumns",
+    "url": "https://raw.githubusercontent.com/AcordPlugin/themes/main/users/oguzhanaksoy/servercolumns/dist/"
+  },
+  {
+    "manifest": {
+      "hash": "11995bcd4ae0be979ce040f16a33ed4e81452709c874ec4e8f92ec860ea608f4-1",
+      "type": "theme",
+      "about": {
+        "name": "SettingsModal",
+        "authors": [
+          "Id 278543574059057154"
+        ],
+        "description": "Turns Settings Windows like User-/Channel-/Serversettings and Boost Overview into Modals",
+        "version": "1.0.0",
+        "license": "MIT",
+        "preview": "https://media.discordapp.net/attachments/887446333047312464/1032425175402151996/unknown.png"
+      }
+    },
+    "user": "oguzhanaksoy",
+    "slug": "settingsmodal",
+    "url": "https://raw.githubusercontent.com/AcordPlugin/themes/main/users/oguzhanaksoy/settingsmodal/dist/"
+  },
+  {
+    "manifest": {
+      "hash": "756bc7b42d1a9102838c288f4dfba26beeabdc3e773a49f2a5a18024d4e05458",
+      "type": "theme",
+      "about": {
+        "name": "Simplify",
+        "authors": [
+          "Id 2354831939099688962"
+        ],
+        "description": "Simple Clean looking theme with blue colors.",
+        "version": "1.0.0",
+        "license": "MIT"
+      }
+    },
+    "user": "oguzhanaksoy",
+    "slug": "simplify",
+    "url": "https://raw.githubusercontent.com/AcordPlugin/themes/main/users/oguzhanaksoy/simplify/dist/"
+  },
+  {
+    "manifest": {
+      "hash": "4e3dcfc57f947443d928e1a3a9614c53261157710fa8ec169c217a3c877e50d0",
+      "type": "theme",
+      "about": {
+        "name": "SimplyDark",
+        "authors": [
+          "Gibbu#1211"
+        ],
+        "description": "A sharp and simple theme for Discord",
+        "version": "3.0.0",
+        "license": "MIT"
+      }
+    },
+    "user": "oguzhanaksoy",
+    "slug": "simplydark",
+    "url": "https://raw.githubusercontent.com/AcordPlugin/themes/main/users/oguzhanaksoy/simplydark/dist/"
+  },
+  {
+    "manifest": {
+      "hash": "89610434954daf6f6ca4ee1fea783d712b495c7c745761d9dc637efc6d45dc05",
+      "type": "theme",
+      "about": {
+        "name": "SkeuoCord",
+        "authors": [
+          "Marda33"
+        ],
+        "description": "A complete skeuomorphic overhaul for Discord.",
+        "version": "1 (Auto Update)",
+        "license": "MIT"
+      }
+    },
+    "user": "oguzhanaksoy",
+    "slug": "skeuocord",
+    "url": "https://raw.githubusercontent.com/AcordPlugin/themes/main/users/oguzhanaksoy/skeuocord/dist/"
+  },
+  {
+    "manifest": {
+      "hash": "9accfd79c36f918947d5eea259642341def0919ec3266cf7e4bbbab33b704ae0",
+      "type": "theme",
+      "about": {
+        "name": "Slate",
+        "authors": [
+          "Gibbu#1211 & Tropical#8908"
+        ],
+        "description": "An optimized, consistent, and functional theme for Discord based on GitHub's design language.",
+        "version": "1.1",
+        "license": "MIT"
+      }
+    },
+    "user": "oguzhanaksoy",
+    "slug": "slate",
+    "url": "https://raw.githubusercontent.com/AcordPlugin/themes/main/users/oguzhanaksoy/slate/dist/"
+  },
+  {
+    "manifest": {
+      "hash": "cf7cbdca34054067f8a0b72f25e5e388acc83e4462e82f8e8c4cca980156fd5e",
+      "type": "theme",
+      "about": {
+        "name": "SoftX",
+        "authors": [
+          "Gibbu#1211"
+        ],
+        "description": "A soft and comfy feel for Discord.",
+        "version": "1.0.0",
+        "license": "MIT"
+      }
+    },
+    "user": "oguzhanaksoy",
+    "slug": "softx",
+    "url": "https://raw.githubusercontent.com/AcordPlugin/themes/main/users/oguzhanaksoy/softx/dist/"
+  },
+  {
+    "manifest": {
+      "hash": "e366224460a6abbaa61310002f116ee90ac49608e490afa90a292be430e93e76",
+      "type": "theme",
+      "about": {
+        "name": "Solana",
+        "authors": [
+          "Id 678469587444170762"
+        ],
+        "description": "macOS with barely any customization.",
+        "version": "1.0.0",
+        "license": "MIT"
+      }
+    },
+    "user": "oguzhanaksoy",
+    "slug": "solana",
+    "url": "https://raw.githubusercontent.com/AcordPlugin/themes/main/users/oguzhanaksoy/solana/dist/"
+  },
+  {
+    "manifest": {
+      "hash": "9fd52bdd0597bf9b01e28573dee46db8592a3a15b77ac8f3fc29339e9c38bf40",
+      "type": "theme",
+      "about": {
+        "name": "Spectra",
+        "authors": [
+          "Id     583750578094735360"
+        ],
+        "description": "A dark theme letting the light shine through! Spectra is a visability focused theme that is still light on your eyes.",
+        "version": "1.1",
+        "license": "MIT"
+      }
+    },
+    "user": "oguzhanaksoy",
+    "slug": "spectra",
+    "url": "https://raw.githubusercontent.com/AcordPlugin/themes/main/users/oguzhanaksoy/spectra/dist/"
+  },
+  {
+    "manifest": {
+      "hash": "f2a01b6c8ddd7f0518c6b7505227294ba6b303274d12048b3499408c4cecc2ed",
+      "type": "theme",
+      "about": {
+        "name": "SpotiCord",
+        "authors": [
+          "Id 741262207391629343"
+        ],
+        "description": "Light-weight Spotify theme for Discord",
+        "version": "AutoUpdating",
+        "license": "MIT"
+      }
+    },
+    "user": "oguzhanaksoy",
+    "slug": "spoticord",
+    "url": "https://raw.githubusercontent.com/AcordPlugin/themes/main/users/oguzhanaksoy/spoticord/dist/"
+  },
+  {
+    "manifest": {
+      "hash": "3e141afe98c1ec7c82932c45787bee02afd20568824a0f86d8b5829137e80a75",
+      "type": "theme",
+      "about": {
+        "name": "Spotify Discord",
+        "authors": [
+          "CapnKitten"
+        ],
+        "description": "Combine Discord and Spotify into one",
+        "version": "1.5.0",
+        "license": "MIT"
+      }
+    },
+    "user": "oguzhanaksoy",
+    "slug": "spotify-discord",
+    "url": "https://raw.githubusercontent.com/AcordPlugin/themes/main/users/oguzhanaksoy/spotify-discord/dist/"
+  },
+  {
+    "manifest": {
+      "hash": "26c6d7ac404a7d1cd371cfd757ef2becdc486b99be029713c22f72af4f6bc913",
+      "type": "theme",
+      "about": {
+        "name": "Synthesis",
+        "authors": [
+          "Link https://github.com/Saltssaumure"
+        ],
+        "description": "A vibrant neon synthwave theme, with a selection of handmade background images, and customisable CRT monitor scanlines.",
+        "version": "1.1",
+        "license": "MIT"
+      }
+    },
+    "user": "oguzhanaksoy",
+    "slug": "synthesis",
+    "url": "https://raw.githubusercontent.com/AcordPlugin/themes/main/users/oguzhanaksoy/synthesis/dist/"
+  },
+  {
+    "manifest": {
+      "hash": "eee71657498083eb3f54d739208f996e104d28cbad7e42f9a5ba7a6634e1d8c0",
+      "type": "theme",
+      "about": {
+        "name": "Synthwave '84",
+        "authors": [
+          "Id 859547769798656001"
+        ],
+        "description": "A clean retro theme that provides the perfect glow and vibe to your Discord.",
+        "version": "1.0.2",
+        "license": "MIT"
+      }
+    },
+    "user": "oguzhanaksoy",
+    "slug": "synthwave84",
+    "url": "https://raw.githubusercontent.com/AcordPlugin/themes/main/users/oguzhanaksoy/synthwave84/dist/"
+  },
+  {
+    "manifest": {
+      "hash": "aab38da9521104715c3412bfec10462f4524e5067eabe52c22388900fcec6221",
+      "type": "theme",
+      "about": {
+        "name": "T1",
+        "authors": [
+          "Eight_P"
+        ],
+        "description": "simple design with focus on improvements and horizontal server bar",
+        "version": "0.7.3",
+        "license": "MIT"
+      }
+    },
+    "user": "oguzhanaksoy",
+    "slug": "t1",
+    "url": "https://raw.githubusercontent.com/AcordPlugin/themes/main/users/oguzhanaksoy/t1/dist/"
+  },
+  {
+    "manifest": {
+      "hash": "da4e68bf391a4b54cd4b28689f7de56f65d9af4ea0f708f8a518e2ec2586b9f9",
+      "type": "theme",
+      "about": {
+        "name": "Tokyo Night",
+        "authors": [
+          "Id 2354831939099688962"
+        ],
+        "description": "Discord Port of Visual Studio Code Theme",
+        "version": "2.0.2",
+        "license": "MIT"
+      }
+    },
+    "user": "oguzhanaksoy",
+    "slug": "tokyo-night",
+    "url": "https://raw.githubusercontent.com/AcordPlugin/themes/main/users/oguzhanaksoy/tokyo-night/dist/"
+  },
+  {
+    "manifest": {
+      "hash": "07674abedf56fa5fec004e1a13928d02ab4fb1b0e3083e3cd4371cfa137e4a88",
+      "type": "theme",
+      "about": {
+        "name": "Tranquil",
+        "authors": [
+          "Id     402272736665272320"
+        ],
+        "description": "Phoenix Theme Bundle: Primarily dark theme that's easy on the eyes [Also supports light theme which is less easy on the eyes]",
+        "version": "1.5",
+        "license": "MIT"
+      }
+    },
+    "user": "oguzhanaksoy",
+    "slug": "tranquil",
+    "url": "https://raw.githubusercontent.com/AcordPlugin/themes/main/users/oguzhanaksoy/tranquil/dist/"
+  },
+  {
+    "manifest": {
+      "hash": "3d742382f3bc3872a00523238584a4b3bc3bf018c2de7dd2bffa780a3bb3626b",
+      "type": "theme",
+      "about": {
+        "name": "Translucence",
+        "authors": [
+          "CapnKitten"
+        ],
+        "description": "A translucent/frosted glass Discord theme",
+        "version": "1.0.6.3",
+        "license": "MIT"
+      }
+    },
+    "user": "oguzhanaksoy",
+    "slug": "translucence",
+    "url": "https://raw.githubusercontent.com/AcordPlugin/themes/main/users/oguzhanaksoy/translucence/dist/"
+  },
+  {
+    "manifest": {
+      "hash": "fbace24fbc6f1a6d34e8d7b72c6ef896b02811e70620eb3d455eab92123b3c55",
+      "type": "theme",
+      "about": {
+        "name": "Twitter Dim Mode",
+        "authors": [
+          "Id 403725623161257984"
+        ],
+        "description": "A theme based in Dim mode from Twitter",
+        "version": "1.0.1",
+        "license": "MIT"
+      }
+    },
+    "user": "oguzhanaksoy",
+    "slug": "twitter-dim-mode",
+    "url": "https://raw.githubusercontent.com/AcordPlugin/themes/main/users/oguzhanaksoy/twitter-dim-mode/dist/"
+  },
+  {
+    "manifest": {
+      "hash": "c4d2b2177768d2b05d00277b82a189d6c696588f949953d55f14cc18366a5180",
+      "type": "theme",
+      "about": {
+        "name": "Ultra",
+        "authors": [
+          "Id 538487970408300544"
+        ],
+        "description": "A Smooth, Black theme",
+        "version": "1.0.6",
+        "license": "MIT"
+      }
+    },
+    "user": "oguzhanaksoy",
+    "slug": "ultra",
+    "url": "https://raw.githubusercontent.com/AcordPlugin/themes/main/users/oguzhanaksoy/ultra/dist/"
+  },
+  {
+    "manifest": {
+      "hash": "9feb74a30af0c8711c280bd45d4ed226adba90f0326478c2181f255a2cf61a4c",
+      "type": "theme",
+      "about": {
+        "name": "Vibrant Glass",
+        "authors": [
+          "Kaynooo#8080"
+        ],
+        "description": "Simple customizable glass theme.",
+        "version": "1.0",
+        "license": "MIT"
+      }
+    },
+    "user": "oguzhanaksoy",
+    "slug": "glass_local",
+    "url": "https://raw.githubusercontent.com/AcordPlugin/themes/main/users/oguzhanaksoy/glass_local/dist/"
+  },
+  {
+    "manifest": {
+      "hash": "6342b3754c8ce0850a0f2897abc4b58784c51e22fc782cf67fd9e2b5d29ac08f",
+      "type": "theme",
+      "about": {
+        "name": "VSC Cord",
+        "authors": [
+          "Xyhlo#9766"
+        ],
+        "description": "Theme based on Visual Studio Code design. Credit to userMacieG#7591 for allowing me to use stuff from his Discord.tv theme.",
+        "version": "1.4",
+        "license": "MIT"
+      }
+    },
+    "user": "oguzhanaksoy",
+    "slug": "vsc-cord",
+    "url": "https://raw.githubusercontent.com/AcordPlugin/themes/main/users/oguzhanaksoy/vsc-cord/dist/"
+  },
+  {
+    "manifest": {
+      "hash": "dab7254788fd87e7ad1bfca85619446ab341961f4bf54a534cf8af8d4cd48eb6",
+      "type": "theme",
+      "about": {
+        "name": "Wildberry",
+        "authors": [
+          "Daggy1234"
+        ],
+        "description": "Inspired by a Pop Tart flavour enjoy a berry inspired color storm for discord",
+        "version": "1.0.0",
+        "license": "MIT"
+      }
+    },
+    "user": "oguzhanaksoy",
+    "slug": "wildberry",
+    "url": "https://raw.githubusercontent.com/AcordPlugin/themes/main/users/oguzhanaksoy/wildberry/dist/"
+  },
+  {
+    "manifest": {
+      "hash": "719d67c411beb552a4485fbf2c1f9b9b87d2edfbf2be32fe41e76c306d453ced",
+      "type": "theme",
+      "about": {
+        "name": "Zelk",
+        "authors": [
+          "Id 652801938374656013"
+        ],
+        "description": "a smooth theme inspired by zorin",
+        "version": "1.2.2",
+        "license": "MIT"
+      }
+    },
+    "user": "oguzhanaksoy",
+    "slug": "zelkbd",
+    "url": "https://raw.githubusercontent.com/AcordPlugin/themes/main/users/oguzhanaksoy/zelkbd/dist/"
+  }
+]
