@@ -7,7 +7,7 @@ import { react } from "@acord/utils";
 
 const botId = "574606689920352256";
 
-const messageClasses = webpack.findByProperties("messageListItem", "message", "highlightContainer", "burstHighlightGradient");
+// const messageClasses = webpack.findByProperties("messageListItem", "message", "highlightContainer", "burstHighlightGradient");
 const warningStore = webpack.findByProperties("close", "getErrorMessageForCommandResult","show");
 let patchContainer = [];
 
@@ -15,7 +15,7 @@ export default {
   load() {
 
     patchContainer.push(
-      dom.patch(`.${messageClasses.message}`, (elm) => {
+      dom.patch(`[id*="message-accessories-"]`, (elm) => {
         let message = react.getProps(elm, (a) => a?.message?.author?.id)?.message;
         if (!message) return;
         if (message.author.id !== botId) return;
