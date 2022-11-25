@@ -13,16 +13,17 @@ let patchContainer = [];
 
 export default {
   load() {
+
     patchContainer.push(
       dom.patch(`.${messageClasses.message}`, (elm) => {
         let message = react.getProps(elm, (a) => a?.message?.author?.id)?.message;
-        console.log(message);
         if (!message) return;
         if (message.author.id !== botId) return;
         if (elm.classList.contains("aincrad--patched")) return;
         elm.classList.add("aincrad--patched");
       })
     );
+    
     const f = ({ message }) => {
       if (message?.author?.id !== botId) return;
       if (message.embeds[0]?.title !== "Seviye atladın!") return;
@@ -30,13 +31,17 @@ export default {
       if (userId !== getCurrentUser().id) return;
       warningStore.show({ title: message.embeds[0]?.author?.name || "Tebrikler", body: message.embeds[0]?.footer?.text || "Seviye Atladın!" });
     }
+
     FluxDispatcher.subscribe("MESSAGE_UPDATE", f);
     patchContainer.push(() => FluxDispatcher.unsubscribe("MESSAGE_UPDATE", f));
+
     FluxDispatcher.subscribe("MESSAGE_CREATE", f);
     patchContainer.push(() => FluxDispatcher.unsubscribe("MESSAGE_CREATE", f));
+
     patchContainer.push(injectCSS());
   },
   unload() {
     patchContainer.forEach((p) => p());
+    patchContainer.length = 0;
   }
 }
